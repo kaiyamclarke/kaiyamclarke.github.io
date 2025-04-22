@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Kaiya-Milan Clarke</title>
+    <link>https://kaiyamclarke.github.io/en/</link>
+    <description>Recent content in Home on Kaiya-Milan Clarke</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 22 Apr 2025 23:14:15 +0800</lastBuildDate>
+    <atom:link href="https://kaiyamclarke.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://kaiyamclarke.github.io/en/about/</link>
+      <pubDate>Tue, 22 Apr 2025 23:14:15 +0800</pubDate>
+      <guid>https://kaiyamclarke.github.io/en/about/</guid>
+      <description>&lt;p&gt;Hello, I am a Mathematics and Data Science B.S. graduate from Northeastern University 2024. I started off my internship career in finance, interning at Atom Finance (now Toggle AI), Goldman Sachs, and Jane Street. While I assumed finance was my career path I became fascinated with other forms of data specifically in imaging and natural language. I hope to explore these domains and continue to build my skill set as a data scientist as I take on more challenging projects. I am seeking internships in Machine Learning and Data Science.&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>
